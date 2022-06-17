@@ -1,12 +1,12 @@
 #ifndef Demo_codeObfuscation_h
 #define Demo_codeObfuscation_h
-//confuse string at Thu Jun 16 22:47:55 CST 2022
-#define myFunctionName CanWorry
-#define initResult GiveThirteen
-#define loginResult NeverCry
-#define payResult AcceleratedHistoric
-#define logoutResult TenCoil
-#define fetchPreDataWithProductId OnlineFriendship
-#define quantity GoalEighteen
-#define callback PercentRefuse
+//confuse string at Fri Jun 17 11:13:00 CST 2022
+#define myFunctionName HouseFish
+#define initResult PerfectMillion
+#define loginResult IncorrectAffordable
+#define payResult FieldBlast
+#define logoutResult CupBetter
+#define fetchPreDataWithProductId CottageEnjoys
+#define quantity InjectedTame
+#define callback TwelveLive
 #endif
